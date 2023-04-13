@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "CapsuleTraceRotation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1abd5424c39d426c81068388a39a61c3"
+		},
+		{
+			"Name": "DidItHit",
+			"Enabled": true
+		},
+		{
+			"Name": "DungeonGeneratorPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
+		},
+		{
+			"Name": "FlatNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
+		},
+		{
+			"Name": "FPSCore",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1e2dd9aadb6f46db9a42a201177d4cdd"
+		},
+		{
+			"Name": "RPM",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6538889705734caa9f4d513b42f1ad97"
+		},
+		{
+			"Name": "SurfaceFootstepSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
+		}
+	]
+}

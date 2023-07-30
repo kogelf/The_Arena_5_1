@@ -36,6 +36,10 @@
 			"Name": "SurfaceFootstepSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }

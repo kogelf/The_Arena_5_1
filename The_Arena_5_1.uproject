@@ -40,6 +40,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "DidItHit",
+			"Enabled": true
 		}
 	]
 }
